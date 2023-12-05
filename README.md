@@ -26,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/CSharp-20232A?logo=csharp&logoColor=white&style=for-the-badge)
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
