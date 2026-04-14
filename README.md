@@ -9,7 +9,7 @@
 
 🎓 Eu estudo [Análise e Desenvolvimento de Sistemas]
 
-🔎 Também sou curioso sobre áreas da tecnologia, engenharia da computação e até contabilidade 🤷‍♂️
+🔎 Sou um homem que tem curiosidade sobre as diversas áreas da tecnologia, engenharia da computação e até áreas de conhecimento como a contabilidade 🤷‍♂️
 
 ### Eu já trabalhei com... 🔧
 
@@ -38,19 +38,7 @@
 ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=#2923F0)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 
-
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
--->
-
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/VictorCrom072">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCrom072&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCrom072&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ### Entre em contato comigo! 📭
 <div>
-<a href="https://www.linkedin.com/in/victor-massao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/victor-iwasaki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
